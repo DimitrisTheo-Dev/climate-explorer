@@ -2,6 +2,8 @@
 
 Climate Explorer is a full-stack application for exploring 160 years of temperature data from multiple weather stations. The backend normalizes a historical CSV into queryable monthly and annual data, while the frontend provides an analytics dashboard, interactive controls, and D3-powered visualizations.
 
+<img width="853" height="814" alt="Screenshot 2025-11-29 at 6 41 32 PM" src="https://github.com/user-attachments/assets/3e5ac797-3e4c-4141-b021-2702ae77e6ab" />
+
 ## Project structure
 
 ```
